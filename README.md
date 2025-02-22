@@ -8,6 +8,7 @@
 
 - This datapack adds features from Lifesteal, Infuse and Levels in Minecraft.
 - Different players can have different abilities (ie. You can choose what feature should a player will have).
+- Everyone has one life.
 - [Watch this for refrence.](https://www.youtube.com/watch?v=IH96S_ef1Os&ab_channel=MinuteTech)
 
 ---
