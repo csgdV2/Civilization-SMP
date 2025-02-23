@@ -27,7 +27,7 @@
 
 1. Goto Releases
 2. Download the version you want
-3. Put it in you /(world)/datapacks folder
+3. Put it in your /(world)/datapacks folder
 
 ---
 
